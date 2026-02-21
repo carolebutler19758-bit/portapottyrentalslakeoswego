@@ -1,0 +1,48 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How does a single company manage thousands of locations in the U.S.?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We utilize a hub-and-spoke logistics model. While your point of contact is a centralized account manager, the equipment is dispatched from the closest regional facility to your site, ensuring local speed with national oversight.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is the "1/4 rule" for service frequency?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">This is our standard for high-traffic sites. We recommend a full service and pump-out whenever a tank reaches 25% capacity. This ensures that odors are neutralized before they become noticeable, maintaining a professional atmosphere for your site or event.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your units compliant with national accessibility laws?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we offer ADA-compliant units that meet all federal requirements for interior space, grab-bar reinforcement, and ground-level entry. We recommend including these in any public-facing layout to ensure total inclusivity.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can you provide water and power for remote sites?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Many of our specialty units and shower trailers can be outfitted with solar power, onboard water tanks, and gas-powered heaters, allowing us to provide high-quality facilities even in locations without traditional utility hookups.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do you ensure units don't tip in high-wind regions?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For sites in high-wind areas or during storm seasons, we provide specialized staking and tie-down services. Our drivers are trained to place units against windbreaks and secure them to the ground to ensure user safety and equipment integrity.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
